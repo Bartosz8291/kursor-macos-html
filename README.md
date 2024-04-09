@@ -1,0 +1,2 @@
+# kursor-macos-html
+mit
